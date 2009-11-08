@@ -1,0 +1,5 @@
+Woopi Test-Framework
+
+Why another?
+	This frameworks is different to existing frameworks like JUnit or TestNG because it is a multi system and multi language (programming language)
+	test framework to test a complete IT landscape and represent in a unique test report.
